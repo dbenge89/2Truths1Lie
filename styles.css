@@ -1,0 +1,18 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1542831371-32f555c86880?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+    padding: 1rem;
+    border: 1rem;
+    border-color: rgba(78, 93, 105, 0.61);
+    text-align: center;
+    vertical-align: auto;
+}
+
+h1 {
+    background-color: rgba(40, 117, 88, 0.685);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+div {
+    background-color: rgba(55, 150, 182, 0.63);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
